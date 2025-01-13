@@ -1,7 +1,7 @@
 # Video Converter for .mov and .mp4 to fix audio problems in Davinci Resolve
 Simple video Converter using [__ffmpeg__](https://ffmpeg.org/) to video files to support playback in Davinci Resolve in Linux.
 Mainly coded for use in Linux. 
-It will go into each sub-folder of your chosen root folder and convert each audio file and place it into a new folder called 'Converted' inside the subfolder.
+It will go into each sub-folder of your chosen root folder and convert each video file and place it into a new folder called 'Converted' inside the subfolder.
 
 I have no idea if it can be run in Windows.
 
